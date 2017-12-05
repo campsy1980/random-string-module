@@ -1,0 +1,10 @@
+{
+  "name": "simple-node-module",
+  "version": "1.0.0",
+  "description": "Simple node module to test",
+  "author": "Gareth Camps <gareth.camps@itcuk.com> (http://itcuk.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
