@@ -3,8 +3,25 @@
   "version": "1.0.0",
   "description": "Simple node module to test",
   "author": "Gareth Camps <gareth.camps@itcuk.com> (http://itcuk.com)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campsy1980/random-string-module.git"
+  },
+  "keywords": [
+    "String",
+    "Random"
+  ],
+  "bugs": {
+    "url": "https://github.com/campsy1980/random-string-module/issues"
+  },
+  "homepage": "https://github.com/campsy1980/random-string-module#readme"
 }
